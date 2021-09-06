@@ -11,5 +11,5 @@ This app does not:
 * Use any analytics
 * Have ads
 * Collect usage data
-* Collect bug reports
+* Collect bug reports beyond Android defaults
 
